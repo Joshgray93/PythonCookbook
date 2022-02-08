@@ -1,7 +1,13 @@
-'''Loading and install packages'''
+# Contents
+- [Loading Packages](#Loading%20Packages)
 
-#To install packages completely use the anaconda prompt and pip install packagename or conda install packagename
+## Loading Packages 
 
+To install packages completely use the anaconda prompt:
+    - pip install packagename
+    - conda install packagename
+
+example packages 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
