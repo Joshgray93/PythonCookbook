@@ -2,8 +2,8 @@
 Aims to give code snippets and best practice for data science in Python
 
 # Contents
-- [Loading Packages](#Loading%20Packages)
-- [Reading Data](#Reading%20Data)
+- Loading Packages <a id="anchor-id"/>
+- [Reading Data](#Reading Data)
 
 # Loading Packages 
 To install packages completely use the anaconda prompt:
