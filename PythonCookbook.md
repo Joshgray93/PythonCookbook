@@ -17,7 +17,5 @@ To install packages completely use the anaconda prompt:
 
 
 # Reading Data
-- Loading CSV files
-`df = pd.read_csv('name.csv')`
-- Loading Excel files    
-`df = pd.read_excel('read.xlsx')`
+- Loading CSV files `df = pd.read_csv('name.csv')`
+- Loading Excel files `df = pd.read_excel('read.xlsx')` 
